@@ -1,0 +1,9 @@
+E:\SpeedPOS\Projects\aQuang\bin\Debug\aQuang.exe
+E:\SpeedPOS\Projects\aQuang\bin\Debug\aQuang.pdb
+E:\SpeedPOS\Projects\aQuang\obj\Debug\aQuang.csproj.AssemblyReference.cache
+E:\SpeedPOS\Projects\aQuang\obj\Debug\aQuang.Form1.resources
+E:\SpeedPOS\Projects\aQuang\obj\Debug\aQuang.Properties.Resources.resources
+E:\SpeedPOS\Projects\aQuang\obj\Debug\aQuang.csproj.GenerateResource.cache
+E:\SpeedPOS\Projects\aQuang\obj\Debug\aQuang.csproj.CoreCompileInputs.cache
+E:\SpeedPOS\Projects\aQuang\obj\Debug\aQuang.exe
+E:\SpeedPOS\Projects\aQuang\obj\Debug\aQuang.pdb
